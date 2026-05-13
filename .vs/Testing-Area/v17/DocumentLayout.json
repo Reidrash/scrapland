@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|d:\\archive\\escom\\10mo semestre\\tt-2\\tt-2026a053\\testing-area\\assets\\scripts\\movimientoficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|d:\\archive\\escom\\10mo semestre\\tt-2\\tt-2026a053\\testing-area\\assets\\scripts\\gestorlanzamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gestorlanzamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\assets\\scripts\\lanzadorbasura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lanzadorbasura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\assets\\scripts\\zonafallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zonafallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\assets\\scripts\\gestorcolabasura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gestorcolabasura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\assets\\scripts\\datosresiduo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E7451C-9AB5-817B-BB30-886F51D33558}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datosresiduo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoFicha.cs",
+              "DocumentMoniker": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\MovimientoFicha.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoFicha.cs",
+              "ToolTip": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\MovimientoFicha.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoFicha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:03:11.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorLanzamiento.cs",
+              "DocumentMoniker": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\GestorLanzamiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GestorLanzamiento.cs",
+              "ToolTip": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\GestorLanzamiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GestorLanzamiento.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:32:57.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZonaFallo.cs",
+              "DocumentMoniker": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\ZonaFallo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZonaFallo.cs",
+              "ToolTip": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\ZonaFallo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZonaFallo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T04:30:04.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestorColaBasura.cs",
+              "DocumentMoniker": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\GestorColaBasura.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GestorColaBasura.cs",
+              "ToolTip": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\GestorColaBasura.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GestorColaBasura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T04:18:40.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatosResiduo.cs",
+              "DocumentMoniker": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\DatosResiduo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DatosResiduo.cs",
+              "ToolTip": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\DatosResiduo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DatosResiduo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:36:08.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanzadorBasura.cs",
+              "DocumentMoniker": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\LanzadorBasura.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LanzadorBasura.cs",
+              "ToolTip": "D:\\Archive\\ESCOM\\10mo Semestre\\TT-2\\TT-2026A053\\Testing-Area\\Assets\\Scripts\\LanzadorBasura.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LanzadorBasura.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:33:07.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
